@@ -1,3 +1,5 @@
+!!! Due to the single name “project”, some repositories have swapped images!!! 
+
 Project: What's Your Name? — XSS and Session Hijacking
 Project Goal:
 The goal of this project was to complete the TryHackMe CTF room "What's Your Name?". The main objective was to identify an XSS vulnerability and use it to hijack the moderator's session cookie in order to access restricted sections of the website and retrieve both flags.
